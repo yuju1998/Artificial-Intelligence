@@ -1,0 +1,14 @@
+dim: 101x101
+heuristic: manhattan
+p = 0: 
+A* type: example_inference
+solvable/total: 10/10
+average time for solvable: 0.09970695972442627
+average time for unsolvable: 0.0
+
+average nodes visited for solvable: 10201.0
+average nodes visited for unsolvable: 0.0
+
+average density: 0.0
+total time: 1.0371463298797607
+

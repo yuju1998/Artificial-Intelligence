@@ -1,0 +1,3 @@
+dim: 101x101
+heuristic: manhattan
+p = 0.2: 
